@@ -54,6 +54,7 @@ To get started with this project:
 Copy
 Edit
 git clone https://github.com/yourusername/deep-fake-detection.git
+```
 
 
 2.Install the required dependencies:
@@ -63,6 +64,7 @@ Refer to requirements.txt and install dependencies using:
 Copy
 Edit
 pip install -r requirements.txt
+```
 
 3.Set up the datasets:
 Download and prepare the datasets as described in the documentation.
