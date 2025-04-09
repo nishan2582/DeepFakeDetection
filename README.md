@@ -48,23 +48,26 @@ Even with a straightforward strategy, the detection system delivers results on p
 **Getting Started**
 To get started with this project:
 
-Clone the repository:
+1.Clone the repository:
 
 ```bash
 Copy
 Edit
 git clone https://github.com/yourusername/deep-fake-detection.git
-Install the required dependencies:
+
+
+2.Install the required dependencies:
 Refer to requirements.txt and install dependencies using:
 
 ```bash
 Copy
 Edit
 pip install -r requirements.txt
-Set up the datasets:
+
+3.Set up the datasets:
 Download and prepare the datasets as described in the documentation.
 
-Train and Evaluate:
+4.Train and Evaluate:
 Run the training script and evaluate the results using the provided notebooks and scripts.
 
 **Contributions and Future Work**
