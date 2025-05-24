@@ -60,8 +60,6 @@ git clone https://github.com/nishan2582/deep-fake-detection.git
 Refer to requirements.txt and install dependencies using:
 
 ```bash
-Copy
-Edit
 pip install -r requirements.txt
 ```
 
