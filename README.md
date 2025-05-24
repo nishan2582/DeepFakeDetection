@@ -51,9 +51,8 @@ To get started with this project:
 1.Clone the repository:
 
 ```bash
-Copy
-Edit
-git clone https://github.com/yourusername/deep-fake-detection.git
+
+git clone https://github.com/nishan2582/deep-fake-detection.git
 ```
 
 
